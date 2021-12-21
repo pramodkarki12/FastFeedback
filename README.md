@@ -2,12 +2,10 @@
 
 > Easily add user reviews, feedback, and comments to your website in one line of code.
 
-This product is being built as part of [React 2025](https://react2025.com).
-
 ## Running Locally
 
 ```bash
-$ git clone https://github.com/leerob/fastfeedback.git
+$ git clone https://github.com/pramodkarki12/FastFeedback.git
 $ cd fastfeedback
 $ yarn
 $ yarn dev
@@ -15,7 +13,7 @@ $ yarn dev
 
 ## Environment Variables
 
-See [`.env.example`](https://github.com/leerob/fastfeedback/blob/master/.env.example) for an example.
+See [`.env.example`](https://github.com/pramodkarki12/FastFeedback/blob/master/.env.example) for an example.
 
 ## Built Using
 
